@@ -1,7 +1,7 @@
 BALLcoin Core repository
 =====================================
 
-[![Build Status](https://travis-ci.org/Kopernikus-dev/ball-coin.svg?branch=master)](https://travis-ci.org/Kopernikus-dev/ball-coin) [![GitHub version](https://badge.fury.io/gh/Kopernikus-dev%2FPIVX.svg)](https://badge.fury.io/gh/Kopernikus-dev%2FPIVX)
+[![Build Status](https://travis-ci.org/Kopernikus-dev/ball-coin.svg?branch=master)](https://travis-ci.org/Kopernikus-dev/ball-coin) [![GitHub version](https://badge.fury.io/gh/Kopernikus-dev%2Fball-coin.svg)](https://badge.fury.io/gh/Kopernikus-dev%2Fball-coin)
 
 More information at [www.ball-coin.com](http://www.ball-coin.com) 
 Visit our ANN thread at [Discord](https://discord.gg/kGTB6gS)
