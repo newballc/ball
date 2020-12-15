@@ -1,8 +1,8 @@
-PIVX Core version *3.2.2* is now available from:  <https://github.com/kopernikus-dev/ballcoin01/releases>
+PIVX Core version *3.2.2* is now available from:  <https://github.com/kopernikus-dev/ball-coin/releases>
 
 This is a new minor version release, including various bug fixes and performance improvements.
 
-Please report bugs using the issue tracker at github: <https://github.com/kopernikus-dev/ballcoin01/issues>
+Please report bugs using the issue tracker at github: <https://github.com/kopernikus-dev/ball-coin/issues>
 
 
 Supplemental Update

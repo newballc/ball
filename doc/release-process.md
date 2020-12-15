@@ -25,9 +25,9 @@ Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
     git clone https://github.com/pivx-project/gitian.sigs.git
-    git clone https://github.com/kopernikus-dev/ballcoin01-detached-sigs.git
+    git clone https://github.com/kopernikus-dev/ball-coin-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/kopernikus-dev/ballcoin01.git
+    git clone https://github.com/kopernikus-dev/ball-coin.git
 
 ### PIVX maintainers/release engineers, suggestion for writing release notes
 

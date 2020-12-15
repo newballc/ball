@@ -524,7 +524,7 @@
          </property>
          <property name="text">
           <string>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/kopernikus-dev/ballcoin01-project-translations</string>
+https://www.transifex.com/kopernikus-dev/ball-coin-project-translations</string>
          </property>
          <property name="wordWrap">
           <bool>true</bool>

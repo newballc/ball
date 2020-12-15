@@ -32,7 +32,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/kopernikus-dev/ballcoin01.git"
+- "url": "https://github.com/kopernikus-dev/ball-coin.git"
   "dir": "pivx"
 files: []
 script: |
