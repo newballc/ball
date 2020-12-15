@@ -1,14 +1,14 @@
-PIVX Core version *3.2.2* is now available from:  <https://github.com/pivx-project/pivx/releases>
+PIVX Core version *3.2.2* is now available from:  <https://github.com/kopernikus-dev/ballcoin01/releases>
 
 This is a new minor version release, including various bug fixes and performance improvements.
 
-Please report bugs using the issue tracker at github: <https://github.com/pivx-project/pivx/issues>
+Please report bugs using the issue tracker at github: <https://github.com/kopernikus-dev/ballcoin01/issues>
 
 
 Supplemental Update
 ==============
 
-PIVX Core v3.2.2 is a **supplemental update** to v3.2.0/1 containing minor bug fixes. Users are still advised to read the [v3.2.0 Release Notes](https://github.com/PIVX-Project/PIVX/blob/master/doc/release-notes/release-notes-3.2.0.md) to familiarize themselves with the major feature changes.
+PIVX Core v3.2.2 is a **supplemental update** to v3.2.0/1 containing minor bug fixes. Users are still advised to read the [v3.2.0 Release Notes](https://github.com/Kopernikus-dev/ball-coin/blob/master/doc/release-notes/release-notes-3.2.0.md) to familiarize themselves with the major feature changes.
 
 While updating from v3.2.0 is not required, it is highly recommended, especially for anyone encountering the issues detailed in the Notable Changes section below.
 

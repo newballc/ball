@@ -2025,9 +2025,9 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/pivx-project/pivx-project-translations</source>
+https://www.transifex.com/kopernikus-dev/ballcoin01-project-translations</source>
         <translation>Brakuje języka bądź nieukończona pełnego tłumaczenia? Pomóż w tłumaczeniu tutaj:
-https://www.transifex.com/pivx-project/pivx-project-translations </translation>
+https://www.transifex.com/kopernikus-dev/ballcoin01-project-translations </translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>

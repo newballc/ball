@@ -1984,9 +1984,9 @@ Var god vänta efter att du trycker på importera.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/pivx-project/pivx-project-translations</source>
+https://www.transifex.com/kopernikus-dev/ballcoin01-project-translations</source>
         <translation>Fattas språk eller är översättningen ofullständig? Hjälp till att bidra med översättning här:
-https://www.transifex.com/pivx-project/pivx-project-translations</translation>
+https://www.transifex.com/kopernikus-dev/ballcoin01-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
