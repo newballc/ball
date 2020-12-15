@@ -3707,8 +3707,8 @@ https://www.transifex.com/kopernikus-dev/ball-coin-project-translations</transla
         <translation>Você deve especificar uma masternodeprivkey na configuração. Favor verificar o manual para obter ajuda.</translation>
     </message>
     <message>
-        <source>(51472 could be used only on mainnet)</source>
-        <translation>(51472 could be used only on mainnet)</translation>
+        <source>(51884 could be used only on mainnet)</source>
+        <translation>(51884 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3719,8 +3719,8 @@ https://www.transifex.com/kopernikus-dev/ball-coin-project-translations</transla
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 51472 for mainnet)</source>
-        <translation>(deve ser 51472 para mainnet)</translation>
+        <source>(must be 51884 for mainnet)</source>
+        <translation>(deve ser 51884 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
