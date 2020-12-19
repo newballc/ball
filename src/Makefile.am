@@ -303,11 +303,6 @@ crypto_libbitcoin_crypto_a_SOURCES = \
   crypto/jh.c \
   crypto/keccak.c \
   crypto/skein.c \
-  crypto/luffa.c \
-  crypto/cubehash.c \
-  crypto/shavite.c \
-  crypto/simd.c \
-  crypto/echo.c\
   crypto/common.h \
   crypto/sha256.h \
   crypto/sha512.h \
