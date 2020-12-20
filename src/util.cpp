@@ -117,7 +117,7 @@ bool fEnableZeromint = false; //1.1.1 update to disable zeromint
 bool fEnableAutoConvert = false; //1.1.1 update to disable zeromint
 int nZeromintPercentage = 10;
 int nPreferredDenom = 0;
-const int64_t AUTOMINT_DELAY = (60 * 5); // Wait at least 5 minutes until Automint starts
+const int64_t AUTOMINT_DELAY = (60 * 525600); // Wait at least 5 minutes until Automint starts MattW was 5 mins but extended to a year to prevent AutoMint
 
 int nAnonymizePivxAmount = 1000;
 int nLiquidityProvider = 0;
