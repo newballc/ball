@@ -11,7 +11,7 @@
 
 BOOST_AUTO_TEST_SUITE(main_tests)
 
-CAmount nMoneySupplyPoWEnd = 4659500 * COIN;
+CAmount nMoneySupplyPoWEnd = 43199500 * COIN;
 
 BOOST_AUTO_TEST_CASE(subsidy_limit_test)
 {
@@ -23,7 +23,7 @@ BOOST_AUTO_TEST_CASE(subsidy_limit_test)
         nSum += nSubsidy;
     }
 
-    for (int nHeight = 1; nHeight < 1000; nHeight += 1) {
+    for (int nHeight = 1; nHeight < 10000; nHeight += 1) {
         /* PoW Phase One */
         CAmount nSubsidy = GetBlockValue(nHeight);
         BOOST_CHECK(nSubsidy <= 250 * COIN);
