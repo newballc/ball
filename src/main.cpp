@@ -1197,7 +1197,7 @@ bool CheckTransaction(const CTransaction& tx, bool fZerocoinActive, bool fReject
     }
 
     if (tx.IsCoinBase()) {
-        if (tx.vin[0].scriptSig.size() < 2 || tx.vin[0].scriptSig.size() > 150)
+        if (tx.vin[0].scriptSig.size() < 0 || tx.vin[0].scriptSig.size() > 150)
             return state.DoS(100, error("CheckTransaction() : coinbase script size=%d", tx.vin[0].scriptSig.size()),
                 REJECT_INVALID, "bad-cb-length");
     } else if (fZerocoinActive && tx.IsZerocoinSpend()) {
@@ -1904,7 +1904,9 @@ int64_t GetBlockValue(int nHeight)
     int64_t nSubsidy = 0;
     if (nHeight == 0) {
         nSubsidy = 60001 * COIN;
-    } else if (nHeight < 15000 && nHeight > 0) {
+    } else if (nHeight < 1000 && nHeight > 0) {
+        nSubsidy = 250 * COIN;
+    } else if (nHeight < 15000 && nHeight >= 1000) {
         nSubsidy = 250 * COIN;
     //} else if (nHeight < 105000 && nHeight >= 15000) {
     } else if (nHeight >= 15000) {    
